@@ -1,4 +1,4 @@
-# https://binfalse.de/2016/11/25/mail-support-for-docker-s-php-fpm/
+# https://binfalse.de/2016/11/25/mail-support-for-docker-s-php-fpm
 # https://github.com/docker-library/php/issues/225%  
 FROM php:fpm-alpine3.9
 
